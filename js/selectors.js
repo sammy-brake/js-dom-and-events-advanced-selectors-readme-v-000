@@ -5,5 +5,15 @@ function paragraphSelector() {
 };
 
 function lastImageSelector() {
-  return $('div img:last-child')
+  return $('div img:last-child');
 };
+
+function ninjaBabySelector() {
+  return $('#ninja-baby');
+};
+
+function divSelector() {
+  return $('.pics');
+};
+
+function
